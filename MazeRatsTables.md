@@ -738,7 +738,7 @@
 | Covered in hair |
 | `dice: [[MazeRatsTables#^Animal]]` arms |
 | Hunchback |
-| Item-form |
+| `dice: [[MazeRatsTables#^Item]]`-form |
 | Long arms |
 | Loses all hair |
 | Loses teeth |
@@ -806,7 +806,7 @@
 | Believes they have `dice: [[MazeRatsTables#^MonsterFeature]]` |
 | Believes they are `dice: [[MazeRatsTables#^MonsterTrait]]` |
 | Must sing |
-| New personality `dice: [[MazeRatsTables#^Personality]] |
+| New personality `dice: [[MazeRatsTables#^Personality]]` |
 | Says thoughts |
 | Sees dead people |
 
@@ -1211,7 +1211,6 @@
 ^MonsterPersonality
 
 
-| Tactics
 | Monster Weakness |
 | - |
 | Bells |
