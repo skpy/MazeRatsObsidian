@@ -1,3 +1,47 @@
+/// CHARACTER CREATION
+
+| Items |
+| - |
+| Animal Scent |
+| Bear Trap |
+| Bedroll |
+| Caltrops |
+| Chain (10 ft.) |
+| Chalk |
+| Chisel |
+| Crowbar |
+| Fishing Net |
+| Glass Marbles |
+| Glue |
+| Grappling Hook |
+| Grease |
+| Hacksaw |
+| Hammer |
+| Hand drill |
+| Horn |
+| Iron spikes |
+| Iron tongs |
+| Lantern and Oil |
+| Large Sack |
+| Lockpicks (3) |
+| Manacles |
+| Medicine |
+| Metal file |
+| Rations (3) |
+| Rope (50 ft.) |
+| Steel wire |
+| Shovel |
+| Steel mirror |
+| Ten Foot Pole |
+| Tinderbox |
+| Torch |
+| Vial of Acid |
+| Vial of Poison |
+| Waterskin |
+
+^Item
+
+
 | Appearance |
 | - |
 | Aquiline |
@@ -38,6 +82,48 @@
 | Wrinkled |
 
 ^Appearance
+
+
+| Physical Details |
+| - |
+| Acid scars |
+| Battle scars |
+| Birthmark |
+| Braided hair |
+| Brand mark |
+| Broken nose |
+| Bronze skinned |
+| Burn scars |
+| Bushy eyebrows |
+| Curly hair |
+| Dark skinned |
+| Dreadlocks |
+| Exotic accent |
+| Flogging scarrs |
+| Freckles |
+| Gold tooth |
+| Hoarse voice |
+| Huge beard |
+| Long hair |
+| Matted hair |
+| Missing ear |
+| Missing teeth |
+| Mustache |
+| Muttonchops |
+| Nine fingers |
+| Oiled hair |
+| One-eyed |
+| Pale skinned |
+| Piercings |
+| Ritual scars |
+| Sallow skin |
+| Shaved head |
+| Sunburned |
+| Tangled hair |
+| Tattoos |
+| Topknot |
+
+^PhysicalDetail
 
 
 | Background |
@@ -124,46 +210,46 @@
 ^Clothing
 
 
-| Items |
+| Personality |
 | - |
-| Animal Scent |
-| Bear Trap |
-| Bedroll |
-| Caltrops |
-| Chain (10 ft.) |
-| Chalk |
-| Chisel |
-| Crowbar |
-| Fishing Net |
-| Glass Marbles |
-| Glue |
-| Grappling Hook |
-| Grease |
-| Hacksaw |
-| Hammer |
-| Hand drill |
-| Horn |
-| Iron spikes |
-| Iron tongs |
-| Lantern and Oil |
-| Large Sack |
-| Lockpicks (3) |
-| Manacles |
-| Medicine |
-| Metal file |
-| Rations (3) |
-| Rope (50 ft.) |
-| Steel wire |
-| Shovel |
-| Steel mirror |
-| Ten Foot Pole |
-| Tinderbox |
-| Torch |
-| Vial of Acid |
-| Vial of Poison |
-| Waterskin |
+| Bitter |
+| Brave |
+| Cautious |
+| Chipper |
+| Contrary |
+| Cowardly |
+| Cunning |
+| Driven |
+| Entitled |
+| Gregarious |
+| Grumpy |
+| Heartless |
+| Honor-bound |
+| Hotheaded |
+| Inquisitive |
+| Irascible |
+| Jolly |
+| Know-it-all |
+| Lazy |
+| Loyal |
+| Menacing |
+| Mopey |
+| Nervous |
+| Protective |
+| Righteous |
+| Rude |
+| Sarcastic |
+| Savage |
+| Scheming |
+| Serene |
+| Spacey |
+| Stoic |
+| Stubborn |
+| Stuck-up |
+| Suspicious |
+| Wisecracking |
 
-^Item
+^Personality
 
 
 | Mannerisms |
@@ -208,257 +294,8 @@
 ^Mannerism
 
 
-| Female Names |
-| - |
-| Afelaide |
-| Alma |
-| Barsaba |
-| Beatrix |
-| Bianca |
-| Cleopha |
-| Clover |
-| Constance |
-| Damaris |
-| Daphne |
-| Demona |
-| Elsbeth |
-| Esme |
-| Fern |
-| Hester |
-| Hippolyta |
-| Jessamine |
-| Jilly |
-| Morgot |
-| Nerissa |
-| Minerva |
-| Odette |
-| Olga |
-| Orchid |
-| Pepper |
-| Phoebe |
-| Piety |
-| Poppy |
-| Silence |
-| Sybil |
-| Trillby |
-| Tuesday |
-| Ursula |
-| Vivian |
-| Wendy |
-| Zora |
 
-^NameFemale
-
-
-| Male Names |
-| - |
-| Balthazar |
-| Basil |
-| Bertram |
-| Blaxton |
-| Chadwick |
-| Clovis |
-| Destrian |
-| Ellis |
-| Erasmus |
-| Faustus |
-| Finn |
-| Fitzburg |
-| Florian |
-| Fox |
-| Godwin |
-| Hannibal |
-| Jasper |
-| Jiles |
-| Jules |
-| Leopold |
-| Merrick |
-| Mortimer |
-| Ogden |
-| Orion |
-| Oswald |
-| Percival |
-| Peregrine |
-| Quentin |
-| Redmaine |
-| Reinhold |
-| Silas |
-| Stilton |
-| Stratford |
-| Tenpiece |
-| Waverly |
-| Webster |
-
-^NameMale
-
-
-| Surnames: Highborn |
-| - |
-| Belvedere |
-| Bithesea |
-| Calaver |
-| Carvolo |
-| De Rippe |
-| Droll |
-| Dunlow |
-| Edevane |
-| Erelong |
-| Febland |
-| Fernsby |
-| Fisk |
-| Gastrell |
-| Girdwood |
-| Gorgon |
-| Grimeson |
-| Gruger |
-| Hitheryon |
-| La Marque |
-| Malmora |
-| Miter |
-| Oblington |
-| Onymous |
-| Phillifent |
-| Portendorfer |
-| Romatet |
-| Rothery |
-| Skorbeck |
-| Slora |
-| Southwark |
-| Stavish |
-| Vandermeer |
-| Wellbelove |
-| Westergren |
-| Wexley |
-| Wilberforce |
-
-^NameHighborn
-
-
-| Surnames: Lowborn |
-| - |
-| Barrow |
-| Beetleman |
-| Berrycloth |
-| Birdwhistle |
-| Bobich |
-| Chips |
-| Coffin |
-| Crumpling |
-| Culpepper |
-| Dankworth |
-| Digworthy |
-| Dreggs |
-| Gimble |
-| Graveworm |
-| Greelish |
-| Hardwick |
-| Hatman |
-| Hovel |
-| Knibbs |
-| Midnighter |
-| Needle |
-| Nethercoat |
-| Pestle |
-| Relish |
-| Rumbold |
-| Rummage |
-| Sallow |
-| Saltmarsh |
-| Silverless |
-| Skitter |
-| Slee |
-| Slitherly |
-| Stoker |
-| Tarwater |
-| Tumbler |
-| Villin |
-
-^NameLowborn
-
-
-| Personality |
-| - |
-| Bitter |
-| Brave |
-| Cautious |
-| Chipper |
-| Contrary |
-| Cowardly |
-| Cunning |
-| Driven |
-| Entitled |
-| Gregarious |
-| Grumpy |
-| Heartless |
-| Honor-bound |
-| Hotheaded |
-| Inquisitive |
-| Irascible |
-| Jolly |
-| Know-it-all |
-| Lazy |
-| Loyal |
-| Menacing |
-| Mopey |
-| Nervous |
-| Protective |
-| Righteous |
-| Rude |
-| Sarcastic |
-| Savage |
-| Scheming |
-| Serene |
-| Spacey |
-| Stoic |
-| Stubborn |
-| Stuck-up |
-| Suspicious |
-| Wisecracking |
-
-^Personality
-
-
-| Physical Details |
-| - |
-| Acid scars |
-| Battle scars |
-| Birthmark |
-| Braided hair |
-| Brand mark |
-| Broken nose |
-| Bronze skinned |
-| Burn scars |
-| Bushy eyebrows |
-| Curly hair |
-| Dark skinned |
-| Dreadlocks |
-| Exotic accent |
-| Flogging scarrs |
-| Freckles |
-| Gold tooth |
-| Hoarse voice |
-| Huge beard |
-| Long hair |
-| Matted hair |
-| Missing ear |
-| Missing teeth |
-| Mustache |
-| Muttonchops |
-| Nine fingers |
-| Oiled hair |
-| One-eyed |
-| Pale skinned |
-| Piercings |
-| Ritual scars |
-| Sallow skin |
-| Shaved head |
-| Sunburned |
-| Tangled hair |
-| Tattoos |
-| Topknot |
-
-^PhysicalDetail
-
+/// MAGIC
 
 | Magic: Ethereal Effect |
 | - |
@@ -855,25 +692,7 @@
 ^Omen
 
 
-
-| Weapons |
-| - |
-| Axe |
-| Dagger |
-| Mace |
-| Short Sword |
-| Flail |
-| One-handed Spear |
-| Two-handed Spear |
-| Halberd |
-| Long Sword |
-| Warhammer |
-| Bow |
-| Crossbow |
-| Sling |
-
-^Weapon
-
+/// MONSTERS & ANIMALS
 
 | Aerial |
 | - |
@@ -1261,3 +1080,806 @@
 ^Animal
 
 
+/// CHARACTERS
+
+| Civilized NPCs |
+| - |
+| Acoylte |
+| Actor |
+| Apothecary |
+| Baker |
+| Barber |
+| Blacksmith |
+| Brewer |
+| Bureaucrat |
+| Butcher |
+| Carpenter |
+| Clockmaker |
+| Courier |
+| Courtier |
+| Diplomat |
+| Fishmonger |
+| Guard |
+| Haberdasher |
+| Innkeeper |
+| Item-seller |
+| Jeweler |
+| Knight |
+| Locksmith |
+| Mason |
+| Miller |
+| Musician |
+| Noble |
+| Painter |
+| Priest |
+| Scholar |
+| Scribe |
+| Sculptor |
+| Shipwright |
+| Soldier |
+| Tailor |
+| Taxidermist |
+| Wigmaker |
+
+^NPCCivilized
+
+
+| Underworld NPCs |
+| Alchemist |
+| Beggar-prince |
+| Blackmailer |
+| Bounty-hunter |
+| Chimney sweep |
+| Coin-clipper |
+| Contortionist |
+| Counterfeiter |
+| Cultist |
+| Cutpurse |
+| Debt-collector |
+| Deserter |
+| Fence |
+| Fortuneteller |
+| Galley slave |
+| Gambler |
+| Gravedigger |
+| Headsman |
+| Hedge knight |
+| Highwayman |
+| Housebreaker |
+| Kidnapper |
+| Mad prophet |
+| Mountebank |
+| Peddler |
+| Pit-fighter |
+| Poisoner |
+| Rat-catcher |
+| Scrivener |
+| Sellsword |
+| Slave |
+| Smuggler |
+| Street performer |
+| Tattooist |
+| Urchin |
+| Usurer |
+
+^NPCUnderworld
+
+
+| Wilderness NPCs |
+| - |
+| Apiarist |
+| Bandit |
+| Caravan guard |
+| Caravaneer |
+| Druid |
+| Exile |
+| Explorer |
+| Farmer |
+| Fisherman |
+| Forager |
+| Fugitive |
+| Hedge wizard |
+| Hermit |
+| Hunter |
+| Messenger |
+| Minstrel |
+| Monk |
+| Monster hunter |
+| Outlander |
+| Tinker |
+| Pilgrim |
+| Poacher |
+| Raider |
+| Ranger |
+| Sage |
+| Scavenger |
+| Scout |
+| Shepherd |
+| Surveyor |
+| Tinker |
+| Tomb raider |
+| Trader |
+| Trapper |
+| Witch |
+| Woodcutter |
+
+^NPCWilderness
+
+
+| Female Names |
+| - |
+| Afelaide |
+| Alma |
+| Barsaba |
+| Beatrix |
+| Bianca |
+| Cleopha |
+| Clover |
+| Constance |
+| Damaris |
+| Daphne |
+| Demona |
+| Elsbeth |
+| Esme |
+| Fern |
+| Hester |
+| Hippolyta |
+| Jessamine |
+| Jilly |
+| Morgot |
+| Nerissa |
+| Minerva |
+| Odette |
+| Olga |
+| Orchid |
+| Pepper |
+| Phoebe |
+| Piety |
+| Poppy |
+| Silence |
+| Sybil |
+| Trillby |
+| Tuesday |
+| Ursula |
+| Vivian |
+| Wendy |
+| Zora |
+
+^NameFemale
+
+
+| Male Names |
+| - |
+| Balthazar |
+| Basil |
+| Bertram |
+| Blaxton |
+| Chadwick |
+| Clovis |
+| Destrian |
+| Ellis |
+| Erasmus |
+| Faustus |
+| Finn |
+| Fitzburg |
+| Florian |
+| Fox |
+| Godwin |
+| Hannibal |
+| Jasper |
+| Jiles |
+| Jules |
+| Leopold |
+| Merrick |
+| Mortimer |
+| Ogden |
+| Orion |
+| Oswald |
+| Percival |
+| Peregrine |
+| Quentin |
+| Redmaine |
+| Reinhold |
+| Silas |
+| Stilton |
+| Stratford |
+| Tenpiece |
+| Waverly |
+| Webster |
+
+^NameMale
+
+
+| Surnames: Upper Class |
+| - |
+| Belvedere |
+| Bithesea |
+| Calaver |
+| Carvolo |
+| De Rippe |
+| Droll |
+| Dunlow |
+| Edevane |
+| Erelong |
+| Febland |
+| Fernsby |
+| Fisk |
+| Gastrell |
+| Girdwood |
+| Gorgon |
+| Grimeson |
+| Gruger |
+| Hitheryon |
+| La Marque |
+| Malmora |
+| Miter |
+| Oblington |
+| Onymous |
+| Phillifent |
+| Portendorfer |
+| Romatet |
+| Rothery |
+| Skorbeck |
+| Slora |
+| Southwark |
+| Stavish |
+| Vandermeer |
+| Wellbelove |
+| Westergren |
+| Wexley |
+| Wilberforce |
+
+^SurnameUpperclass
+
+
+| Surnames: Lower Class |
+| - |
+| Barrow |
+| Beetleman |
+| Berrycloth |
+| Birdwhistle |
+| Bobich |
+| Chips |
+| Coffin |
+| Crumpling |
+| Culpepper |
+| Dankworth |
+| Digworthy |
+| Dreggs |
+| Gimble |
+| Graveworm |
+| Greelish |
+| Hardwick |
+| Hatman |
+| Hovel |
+| Knibbs |
+| Midnighter |
+| Needle |
+| Nethercoat |
+| Pestle |
+| Relish |
+| Rumbold |
+| Rummage |
+| Sallow |
+| Saltmarsh |
+| Silverless |
+| Skitter |
+| Slee |
+| Slitherly |
+| Stoker |
+| Tarwater |
+| Tumbler |
+| Villin |
+
+^SurnameLowerclass
+
+| Assets |
+| - |
+| Authority |
+| Avoids detection |
+| Calls in favors |
+| Charming |
+| Cooks the books |
+| Erases the evidence |
+| Excellent liar |
+| Extremely rich |
+| Faction-leader |
+| Faction-member |
+| Feared |
+| Fortified base |
+| Gorgeous |
+| Hears rumors |
+| Huge family |
+| Huge library |
+| Impersonator |
+| Interrogator |
+| Knows a guy |
+| Knows a way in |
+| Launders money |
+| Learned |
+| Local celebrity |
+| Local knowledge |
+| Loyal henchmen |
+| Middling oracle |
+| Nothing to lose |
+| Owns the guards |
+| Powerful spouse |
+| Procures gear |
+| Pulls the strings |
+| Secret lab |
+| Sells contraband |
+| Smuggles goods |
+| Spy network |
+| War hero |
+
+^NPCAssets
+
+
+| Liabilities |
+| - |
+| Addiction |
+| Alcoholic |
+| Corrupt ally |
+| Coward |
+| Decadent |
+| Forbidden love |
+| Gambler |
+| Glutton |
+| Greedy |
+| Heretic |
+| Huge debts |
+| Imposter |
+| `dice: [[MazeRatsTables#^Insanity]]` |
+| Jealous |
+| Leaves evidence |
+| Many enemies |
+| Misinformed |
+| Money trail |
+| Narcissist |
+| Needs medicince |
+| OCD |
+| Paranoid |
+| Partyer |
+| Poor equipment |
+| Protective |
+| Scandalous |
+| Softhearted |
+| Strict routines |
+| Superstitious |
+| Suspicious |
+| Temper |
+| Trusting |
+| Vulnerable base |
+| Wanted |
+| Weak-willed |
+| Widely despised |
+
+^NPCLiabilities
+
+
+| NPC Goals |
+| - |
+| A better life |
+| Acceptance |
+| Acquire ITEM |
+| Craft ITEM |
+| Destroy ITEM |
+| Enlightenment |
+| Fame |
+| Found faction |
+| Freedom |
+| Glory |
+| Impress NPC |
+| Infamy |
+| Infiltrate faction |
+| Justice |
+| Kidnap NPC |
+| Lead faction |
+| Learning |
+| Locate NPC |
+| Love |
+| Mastery |
+| Power |
+| Reach location |
+| Rescue NPC |
+| Resolve dispute |
+| Restore faction |
+| Reveal a secret |
+| Revenge |
+| Sabotage faction |
+| Serve a deity |
+| Serve evil |
+| Serve faction |
+| Serve ideology |
+| Serve leader |
+| Serve the needy |
+| Wealth |
+
+^NPCGoals
+
+
+| Misfortunes |
+| - |
+| Abandoned |
+| Addicted |
+| Arrested |
+| Blackmailed |
+| Burgled |
+| Challenged |
+| Condemned |
+| Crippled |
+| Cursed |
+| Defrauded |
+| Demoted |
+| Depressed |
+| Discredited |
+| Dismissed |
+| Disowned |
+| Exiled |
+| Famished |
+| Forgotten |
+| Framed |
+| Haunted |
+| Humiliated |
+| Impoverished |
+| Kidnapped |
+| Lost |
+| Mobbed |
+| Mutilated |
+| Overworked |
+| Poisoned |
+| Pursued |
+| Rejected |
+| Replaced |
+| Robbed |
+| Sick |
+| Sued |
+| Suspected |
+| Transformed |
+
+^NPCMisfortunes
+
+
+| Missions |
+| - |
+| Apprehend |
+| Assassinate |
+| Blackmail |
+| Burgle |
+| Chart |
+| Convince |
+| Deface |
+| Defraud |
+| Deliver |
+| Destroy |
+| Discredit |
+| Escort |
+| Exfiltrate |
+| Extort |
+| Follow |
+| Frame |
+| Impersonate |
+| Impress |
+| Infiltrate |
+| Interrogate |
+| Investigate |
+| Kidnap |
+| Locate |
+| Plant |
+| Protect |
+| Raid |
+| Replace |
+| Retrieve |
+| Rob |
+| Ruin |
+| Sabotage |
+| Smuggle |
+| Surveil |
+| Take over |
+| Terrorize |
+| Threaten |
+
+^NPCMissions
+
+
+| Methods |
+| - |
+| Alchemy |
+| Blackmail |
+| Bluster |
+| Bribery |
+| Bullying |
+| Bureaucracy |
+| Charm |
+| Commerce |
+| Cronies |
+| Debate |
+| Deceit |
+| Deduction |
+| Eloquence |
+| Espionage |
+| Fast-talking |
+| Favors |
+| Hard work |
+| Humor |
+| Investigation |
+| Legal maneuvers |
+| Manipulation |
+| Misdirection |
+| Money |
+| Nagging |
+| Negotiation |
+| Persistence |
+| Piety |
+| Preparation |
+| Quick wit |
+| Research |
+| Rumors |
+| Sabotage |
+| Teamwork |
+| Theft |
+| Threats |
+| Violence |
+
+^NPCMethods
+
+
+| Secrets |
+| - |
+| Addicted |
+| Artificial |
+| Assassin |
+| Bankrupt |
+| Beholden |
+| Counterspy |
+| Cultist |
+| Demigod |
+| Evil lineage |
+| Exile |
+| Fence |
+| Fugitive |
+| Ghost |
+| Has a child |
+| Heretic |
+| High born |
+| Huge fortune |
+| Illusion |
+| Insurrectionist |
+| Low born |
+| Married |
+| Mind-contolled |
+| `dice: [[MazeRatsTables#^NPCMisfortunes]]` |
+| Monster hunter |
+| Non-human |
+| NPC |
+| Polygamist |
+| Protects relic |
+| Scandalous birth |
+| Secret police |
+| Serial killer |
+| Smuggler |
+| Spy |
+| Time traveler |
+| Transformed |
+| War criminal |
+
+^NPCSecrets 
+
+
+| Reputations |
+| - |
+| Ambitious |
+| Authoritative |
+| Boor |
+| Borrower |
+| Celebrity |
+| Charitable |
+| Cheat |
+| Dangerous |
+| Entertainer |
+| Gossip |
+| Hardworking |
+| Holy |
+| Honest |
+| Hypochondriac |
+| Idiot |
+| Influential |
+| Layabout |
+| Leader |
+| Misanthrope |
+| Miser |
+| Meighborly |
+| Nutjob |
+| Obnoxious |
+| Overeducated |
+| Partier |
+| Pious |
+| Proper |
+| Prophet of doom |
+| Repulsive |
+| Respected |
+| Riffraff |
+| Scandalous |
+| Slime ball |
+| Terrifying |
+| Weirdo |
+| Wise |
+
+^NPCReputations
+
+
+| Hobbies |
+|- |
+| Archaeology |
+| Art collecting |
+| Bad fiction |
+| Calligraphy |
+| Card games |
+| Clockwork |
+| Collecting cats |
+| Cuisine |
+| Dark lore |
+| Dog breeding |
+| Embroidery |
+| Exercise |
+| Falconry |
+| Fashion |
+| Fishing |
+| Foreign cultures |
+| Gardening |
+| History |
+| Horseracing |
+| Hunting |
+| Instrument |
+| Knitting |
+| Lawn games |
+| Mountaineering |
+| Opera |
+| Painting |
+| Poetry |
+| Puzzle-solving |
+| Riddling |
+| Science |
+| Sculpture |
+| Sketching |
+| Smoking |
+| Theater |
+| Weaving |
+| Whiskey |
+
+^NPCHobbies
+
+
+| Relationships |
+| - |
+| Adviser |
+| Blackmailer |
+| Business partner |
+| Business rival |
+| Buyer |
+| Captor |
+| Client |
+| Confidant |
+| Debtor |
+| Disciple |
+| Guardian |
+| Henchman |
+| Idol |
+| Informant |
+| Master |
+| Mentor |
+| Nemesis |
+| Offspring |
+| Parent |
+| Patron |
+| Political rival |
+| Prisoner |
+| Protege |
+| Quarry |
+| Right hand |
+| Romantic rival |
+| Servant |
+| Sibling |
+| Social rival |
+| Spouse |
+| Stalker |
+| Suitor |
+| Supplicant |
+| Supplier |
+| Sweetheart |
+| Unrequited love |
+
+^NPCRelationships
+
+
+| Divine Domains |
+| - |
+| `dice: [[MazeRatsTables#^Animal]]` |
+| Balance |
+| Betrayal |
+| Chance |
+| Chaos |
+| Conquest |
+| Cycles |
+| Death |
+| Destiny |
+| Dreams |
+| `dice: [[MazeRatsTables#^MagicPhysicalElement]]` |
+| Gateways |
+| Judgement |
+| Love |
+| Memory |
+| Monsters |
+| Moon |
+| Motherhood |
+| NPC |
+| Oaths |
+| Order |
+| Plague |
+| Purification |
+| Reason |
+| Schemes |
+| Secrets |
+| Storms |
+| Summer |
+| Sun |
+| The forge |
+| The sea |
+| The wild |
+| Time |
+| Underworld |
+| Wealth |
+| Winter |
+
+^NPCDivineDomains
+
+
+| After the Party |
+| - |
+| Absurd boasts |
+| Adopted a child |
+| Awarded medal |
+| Bought the inn |
+| Cursed |
+| Duel scheduled |
+| Elected to office |
+| Given a quest |
+| Got married |
+| In a coffin |
+| In love |
+| In the stocks |
+| Inconvenient pet |
+| Insulted a noble |
+| Insulted faction |
+| Joined a cult |
+| Letter of thanks |
+| Lost |
+| Lost at gambling |
+| Lost reputation |
+| New identity |
+| New tattoo |
+| Poisoned |
+| Recruited |
+| Robbed |
+| Roof on fire |
+| Shanghaied |
+| Sick |
+| Signed contract |
+| Someone died |
+| Spilled secrets |
+| Started a cult |
+| Swindled |
+| Thrown in jail |
+| Unruly mob |
+| Wrong clothes |
+
+^AfterTheParty
+
+
+/// TREASURE & EQUIPMENT
+
+/// THE CITY
+
+/// THE WILD
+
+/// THE MAZE
