@@ -346,7 +346,7 @@
 | Believes they have `dice: [[MazeRatsTables#^MonsterFeatures]]` |
 | Believes they are `dice: [[MazeRatsTables#^MonsterTraits]]` |
 | Must sing |
-| New personality `dice: [[MazeRatsTables#^CharacterPersonalities]]` |
+| New personality `dice: [[MazeRatsTables#^Personalities]]` |
 | Says thoughts |
 | Sees dead people |
 
@@ -1079,18 +1079,18 @@
 
 | NPCs |
 | - |
-| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^CivilizedNPC]]` |
-| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^CivilizedNPC]]` |
-| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^CivilizedNPC]]` |
-| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^CivilizedNPC]]` |
-| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^UnderworldNPC]]` |
-| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^UnderworldNPC]]` |
-| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^UnderworldNPC]]` |
-| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^UnderworldNPC]]` |
-| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^WildernessNPC]]` |
-| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^WildernessNPC]]` |
-| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^WildernessNPC]]` |
-| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^WildernessNPC]]` |
+| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^CivilizedNPCs]]` |
+| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^CivilizedNPCs]]` |
+| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^CivilizedNPCs]]` |
+| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^CivilizedNPCs]]` |
+| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^UnderworldNPCs]]` |
+| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^UnderworldNPCs]]` |
+| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^UnderworldNPCs]]` |
+| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^UnderworldNPCs]]` |
+| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^WildernessNPCs]]` |
+| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^WildernessNPCs]]` |
+| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^WildernessNPCs]]` |
+| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^WildernessNPCs]]` |
 
 ^NPCs
 
@@ -1188,7 +1188,7 @@
 | Destroy `dice: [[MazeRatsTables#^Items]]` |
 | Enlightenment |
 | Fame |
-| Found `dice: [[MazeRatsTables#^Factions]] |
+| Found `dice: [[MazeRatsTables#^Factions]]` |
 | Freedom |
 | Glory |
 | Impress `dice: [[MazeRatsTables#^NPCs]]` |
@@ -1595,7 +1595,7 @@
 | Transformed |
 | War criminal |
 
-^Secrets 
+^Secrets
 
 
 | Reputations |
