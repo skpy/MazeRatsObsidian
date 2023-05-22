@@ -1077,22 +1077,24 @@
 ^LowerclassSurnames
 
 
-| NPCs |
+| NPC Names |
 | - |
-| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^CivilizedNPCs]]` |
-| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^CivilizedNPCs]]` |
-| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^CivilizedNPCs]]` |
-| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^CivilizedNPCs]]` |
-| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^UnderworldNPCs]]` |
-| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^UnderworldNPCs]]` |
-| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^UnderworldNPCs]]` |
-| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^UnderworldNPCs]]` |
-| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^WildernessNPCs]]` |
-| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^WildernessNPCs]]` |
-| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]`, `dice: [[MazeRatsTables#^WildernessNPCs]]` |
-| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]`, `dice: [[MazeRatsTables#^WildernessNPCs]]` |
+| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]` |
+| `dice: [[MazeRatsTables#^MaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]` |
+| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]` |
+| `dice: [[MazeRatsTables#^FemaleNames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]` |
+| `dice: [[MazeRatsTables#^UpperclassSurnames]]` `dice: [[MazeRatsTables#^UpperclassSurnames]]` |
+| `dice: [[MazeRatsTables#^UpperclassSurnames]]` `dice: [[MazeRatsTables#^LowerclassSurnames]]` |
 
-^NPCs
+^NPCNames
+
+| NPC Professions |
+| - |
+| `dice: [[MazeRatsTables#^CivilizedNPCs]]` |
+| `dice: [[MazeRatsTables#^UnderworldNPCs]]` |
+| `dice: [[MazeRatsTables#^WildernessNPCs]]` |
+
+^NPCProfessions
 
 
 | Assets |
@@ -2869,7 +2871,7 @@
 | Shrine |
 | Standing stone |
 | Temple |
-| Villag |
+| Village |
 | Wall |
 | Watchtower |
 | Waystone |
@@ -3128,7 +3130,7 @@
 | Inn Names |
 | - |
 | `dice: [[MazeRatsTables#^InnAdjectives]]` `dice: [[MazeRatsTables#^InnNouns]]` |
-| `dice: [[MazeRatsTables#^InnNouns]]` `dice: [[MazeRatsTables#^InnNouns]]` |
+| `dice: [[MazeRatsTables#^InnNouns]]` `dice: [[MazeRatsTables#^InnAjectives]]` |
 
 ^InnNames
 
@@ -3214,7 +3216,7 @@
 | Whale |
 | Wife |
 
-^InNouns
+^InnNouns
 
 
 | Inn Quirks |
@@ -3261,6 +3263,48 @@
 
 /// THE MAZE
 
+| Dungeon Entrances |
+| - |
+| All libraries |
+| Beaver dam |
+| Behind waterfall |
+| Chalk rectangle |
+| Chest bottom |
+| Chimney |
+| Cupboard |
+| Dolmen shadow |
+| Down a well |
+| Fiery pit |
+| Fog road |
+| Forest spring |
+| Giant book |
+| Gypsy Wagon |
+| Hollow tree |
+| Huge keyhole |
+| Iron maiden |
+| Living tattoo |
+| Magic painting |
+| Man-shaped hole |
+| Maze potion |
+| Mirror |
+| Monster mouth |
+| Monster wound |
+| Narrow alley |
+| Rain door |
+| Sewer grate |
+| Sudden rift |
+| Tidal cave |
+| Tower top |
+| Tree roots |
+| Under the bed |
+| Unfolded map |
+| Up a tree |
+| Whirlpool |
+| Wine barrel |
+
+^DungeonEntrances
+
+
 | Dungeon Forms |
 | - |
 | Arena |
@@ -3301,7 +3345,7 @@
 ^DungeonForms
 
 
-| Dungeon Layout |
+| Dungeon Layouts |
 | - |
 | Ant colony |
 | Central hub |
@@ -3340,7 +3384,7 @@
 | Winding |
 | Ziggurat |
 
-^DungeonLayout
+^DungeonLayouts
 
 
 | Dungeon Ruinations |
@@ -3423,7 +3467,7 @@
 | Vision |
 | Weapon |
 
-^DuneonRewards
+^DungeonRewards
 
 
 | Dungeon Activities |
