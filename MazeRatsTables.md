@@ -756,7 +756,7 @@
 | Mistletoe |
 | Moonlight |
 | Music |
-| METHODS |
+| `dice: [[MazeRatsTables#^Methods]]` |
 | Phylactery |
 | `dice: [[MazeRatsTables#^PhysicalElements]]` |
 | Puzzles |
@@ -766,7 +766,7 @@
 | Sunlight |
 | Tears |
 | True name |
-| VALUABLE MATERIALS |
+| `dice: [[MazeRatsTables#^ValuableMaterials]]` |
 | Weak spot |
 | `dice: [[MazeRatsTables#^Weapon]]` |
 | Wine |
