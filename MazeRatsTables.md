@@ -3130,7 +3130,7 @@
 | Inn Names |
 | - |
 | `dice: [[MazeRatsTables#^InnAdjectives]]` `dice: [[MazeRatsTables#^InnNouns]]` |
-| `dice: [[MazeRatsTables#^InnNouns]]` `dice: [[MazeRatsTables#^InnAjectives]]` |
+| `dice: [[MazeRatsTables#^InnNouns]]` `dice: [[MazeRatsTables#^InnAdjectives]]` |
 
 ^InnNames
 
